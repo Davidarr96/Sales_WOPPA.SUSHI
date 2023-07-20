@@ -1,0 +1,78 @@
+id,rubro,nomrub,subrubro,nomsub,codigo,nombre,unidades,precio,venta
+"0000001",0,"",0,"",0,"Art. Inexistente",2.00,0.00,2.00
+" 0   64",0,"",0,"",64,"COMENSALES",2.00,0.00,7050.00
+" 0   71",0,"",0,"",71,"ENVIO",5910.00,0.00,848562.03
+" 0  712",0,"",0,"",712,"ENVIO ZONA SUR 2",756.00,0.00,128914.00
+" 0  713",0,"",0,"",713,"ENVIO ZONA 3",1329.00,0.00,253075.00
+" 1    1",1,"ROLLS&MAKIS 9U",0,"",1,"Chimbote Roll",829.00,0.00,1129709.10
+" 1    2",1,"ROLLS&MAKIS 9U",0,"",2,"Tandori Roll",191.00,0.00,242093.93
+" 1    3",1,"ROLLS&MAKIS 9U",0,"",3,"Sake Roll",467.00,0.00,626799.58
+" 1    4",1,"ROLLS&MAKIS 9U",0,"",4,"Salmón Slow Roll",449.00,0.00,587572.20
+" 1    5",1,"ROLLS&MAKIS 9U",0,"",5,"Salmón Smoke Roll",611.00,0.00,841225.76
+" 1    6",1,"ROLLS&MAKIS 9U",0,"",6,"Dinamita Wappo Roll",279.00,0.00,369012.78
+" 1    7",1,"ROLLS&MAKIS 9U",0,"",7,"Good Roll",504.00,0.00,720321.38
+" 1    8",1,"ROLLS&MAKIS 9U",0,"",8,"Green Roll",772.00,0.00,1054373.61
+" 1    9",1,"ROLLS&MAKIS 9U",0,"",9,"N.Y Cheese Roll",2372.00,0.00,3149101.91
+" 1   10",1,"ROLLS&MAKIS 9U",0,"",10,"Maki Wappo",579.00,0.00,767962.19
+" 1   11",1,"ROLLS&MAKIS 9U",0,"",11,"Smoke Nikkei Roll",1049.00,0.00,1540124.39
+" 1   12",1,"ROLLS&MAKIS 9U",0,"",12,"Tsunami Roll",307.00,0.00,455093.76
+" 1   13",1,"ROLLS&MAKIS 9U",0,"",13,"Pipamon Roll",348.00,0.00,530581.86
+" 1   14",1,"ROLLS&MAKIS 9U",0,"",14,"Crack ! Roll",367.00,0.00,569480.62
+" 1   15",1,"ROLLS&MAKIS 9U",0,"",15,"Coconut Rol",485.00,0.00,802225.65
+" 1   16",1,"ROLLS&MAKIS 9U",0,"",16,"Wappo New York Roll",3998.00,0.00,6107555.09
+" 1   17",1,"ROLLS&MAKIS 9U",0,"",17,"Citric Roll",395.00,0.00,608505.04
+" 1   18",1,"ROLLS&MAKIS 9U",0,"",18,"Golden Roll",142.00,0.00,200042.85
+" 1   19",1,"ROLLS&MAKIS 9U",0,"",19,"Deluxe Roll",764.00,0.00,1150762.76
+" 1   20",1,"ROLLS&MAKIS 9U",0,"",20,"Ceviche Roll",1857.00,0.00,2913160.07
+" 1   21",1,"ROLLS&MAKIS 9U",0,"",21,"Máncora Roll",494.00,0.00,798043.29
+" 1   22",1,"ROLLS&MAKIS 9U",0,"",22,"Shrimp Purple Onion  Roll",1374.00,0.00,2057798.69
+" 1   23",1,"ROLLS&MAKIS 9U",0,"",23,"Tropical Roll",352.00,0.00,529197.48
+" 1   24",1,"ROLLS&MAKIS 9U",0,"",24,"Suspiro Roll",1195.00,0.00,1822384.30
+" 1   72",1,"ROLLS&MAKIS 9U",0,"",72,"Mango's",165.00,0.00,249107.79
+" 1   74",1,"ROLLS&MAKIS 9U",0,"",74,"Niguiri Parmesano",45.00,0.00,51484.28
+" 1   75",1,"ROLLS&MAKIS 9U",0,"",75,"Pax",8356.00,0.00,0.00
+" 1   76",1,"ROLLS&MAKIS 9U",0,"",76,"Pal",28184.00,0.00,0.00
+" 1   80",1,"ROLLS&MAKIS 9U",0,"",80,"Fruti Crunch",22.00,0.00,36782.00
+" 1   81",1,"ROLLS&MAKIS 9U",0,"",81,"Frutilla Flame",40.00,0.00,65108.91
+" 1  711",1,"ROLLS&MAKIS 9U",0,"",711,"Roll Parmesano",567.00,0.00,839775.65
+" 2   25",2,"NIGUIRIS 4U",0,"",25,"Niguiri Salmon",230.00,0.00,254546.00
+" 2   26",2,"NIGUIRIS 4U",0,"",26,"Niguiri Salmon Ahumado",97.00,0.00,111358.06
+" 2   27",2,"NIGUIRIS 4U",0,"",27,"Salmon Citric",44.00,0.00,54762.54
+" 2   28",2,"NIGUIRIS 4U",0,"",28,"Pistache",80.00,0.00,101020.68
+" 2   29",2,"NIGUIRIS 4U",0,"",29,"Nikkei",37.00,0.00,50220.00
+" 2   30",2,"NIGUIRIS 4U",0,"",30,"Teriflam",113.00,0.00,150432.32
+" 2   73",2,"NIGUIRIS 4U",0,"",73,"Niguiri Anticuchero",27.00,0.00,31692.59
+" 3   31",3,"GEISHAS 4U",0,"",31,"Geisha Salmón + Phila",451.00,0.00,569880.23
+" 3   32",3,"GEISHAS 4U",0,"",32,"Geisha Salmon Ahumado",186.00,0.00,250599.74
+" 3   33",3,"GEISHAS 4U",0,"",33,"Geishas Aguacate Shrimp",185.00,0.00,274034.69
+" 3   34",3,"GEISHAS 4U",0,"",34,"Golden Geisha",448.00,0.00,646461.55
+" 4   35",4,"HOT ROLLS 9U",0,"",35,"Alcapone",812.00,0.00,1353668.59
+" 4   36",4,"HOT ROLLS 9U",0,"",36,"Hot Spicy Roll",3826.00,0.00,6359113.91
+" 5   37",5,"ROLLS VEGGIE 9U",0,"",37,"Palmi Roll",318.00,0.00,413497.61
+" 5   38",5,"ROLLS VEGGIE 9U",0,"",38,"Roll Aguacate",277.00,0.00,356956.49
+" 5   39",5,"ROLLS VEGGIE 9U",0,"",39,"Free Roll",267.00,0.00,349025.00
+" 5   40",5,"ROLLS VEGGIE 9U",0,"",40,"Ring Ring Roll",357.00,0.00,467507.40
+" 5   41",5,"ROLLS VEGGIE 9U",0,"",41,"Togamate Roll",293.00,0.00,390290.09
+" 6   42",6,"WAPPO",0,"",42,"Combo WAPPO M.18",1099.00,0.00,2599109.93
+" 6   43",6,"WAPPO",0,"",43,"Combo WAPPO L.28",637.00,0.00,2315879.20
+" 6   44",6,"WAPPO",0,"",44,"Combo WAPPO XL.40",104.00,0.00,574619.08
+" 7   45",7,"HIPER WAPPO",0,"",45,"Combo HIPER M.18",1641.00,0.00,4548282.79
+" 7   46",7,"HIPER WAPPO",0,"",46,"Combo HIPER L.28",1074.00,0.00,4647190.25
+" 7   47",7,"HIPER WAPPO",0,"",47,"Combo HIPER XL.40",263.00,0.00,1618094.82
+" 8   48",8,"WAPPO SELEC",0,"",48,"Combo SELECT M.18",1765.00,0.00,5721704.30
+" 8   49",8,"WAPPO SELEC",0,"",49,"Combo SELECT L.28",1242.00,0.00,5964687.31
+" 8   50",8,"WAPPO SELEC",0,"",50,"Combo SELECT XL.40",318.00,0.00,2067486.62
+" 9   54",9,"VEGGIE WAPPO",0,"",54,"Combo VEGGIE M.18",240.00,0.00,526748.14
+" 9   55",9,"VEGGIE WAPPO",0,"",55,"Combo VEGGIE L.28",80.00,0.00,264774.44
+" 9   56",9,"VEGGIE WAPPO",0,"",56,"Combo VEGGIE XL.40",29.00,0.00,145710.00
+"10   51",10,"WAPPO PINK",0,"",51,"Combo PINK M.18",863.00,0.00,2833816.42
+"10   52",10,"WAPPO PINK",0,"",52,"Combo PINK L.28",405.00,0.00,2087773.02
+"10   53",10,"WAPPO PINK",0,"",53,"Combo PINK XL.40",167.00,0.00,1250056.37
+"11   65",11,"EXTRAS",0,"",65,"Extra Palito",31.00,0.00,3600.00
+"11   66",11,"EXTRAS",0,"",66,"Extra Soja",36.00,0.00,7190.00
+"11   67",11,"EXTRAS",0,"",67,"Blister Salsa Teriyaki",273.00,0.00,61252.89
+"11   68",11,"EXTRAS",0,"",68,"Blister Salsa Teriyaki  ahumad",456.00,0.00,77183.92
+"11   69",11,"EXTRAS",0,"",69,"Blister  Salsa  Buenos Aires",652.00,0.00,104065.53
+"11   70",11,"EXTRAS",0,"",70,"Roll Anticuchero",114.00,0.00,173646.00
+"11   93",11,"EXTRAS",0,"",93,"Extra de Wasabi",67.00,0.00,13754.83
+"11   94",11,"EXTRAS",0,"",94,"Extra de Jengibre",56.00,0.00,12260.64
